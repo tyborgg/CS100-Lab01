@@ -1,0 +1,5 @@
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/CMakeFiles/rebuild_cache.dir
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/CMakeFiles/edit_cache.dir
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/CMakeFiles/c-echo.dir
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/CMakeFiles/bigger_area_calculator.dir
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/CMakeFiles/area_calculator.dir

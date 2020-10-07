@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/c-echo.h
+iostream
+-
+
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/main2.cpp
+c-echo.h
+/home/csmajs/tpast001/lab-01-introduction-to-software-construction-tooling-tyborgg/c-echo.h
+
